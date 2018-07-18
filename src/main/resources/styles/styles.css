@@ -1,0 +1,9 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.buttonPrimary {
+    -fx-background-color: #c0392b;
+    -fx-text-fill: white;
+    -fx-font-size: 14.0;
+}
